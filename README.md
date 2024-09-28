@@ -48,4 +48,4 @@ To run the app locally, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/neeldesaind/to-do-list-flutter/blob/main/LICENSE) file for details.
