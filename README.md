@@ -17,9 +17,19 @@ An About Us page providing information about the developer, including a brief in
 - Dart
 
 ## Screenshots
+![11](https://github.com/user-attachments/assets/8dff810e-d76c-4c77-a188-10465d0e34a6)
+![10](https://github.com/user-attachments/assets/b5a94f58-5470-4670-8e32-7222dbf36c77)
+![9](https://github.com/user-attachments/assets/92165c55-4d2f-4824-986b-cdcb7f70da68)
+![8](https://github.com/user-attachments/assets/337c1d12-c18c-459b-a5ff-75ea855b1056)
+![7](https://github.com/user-attachments/assets/7c2ad0ba-ea1e-41d9-807d-ae056f46c9aa)
+![6](https://github.com/user-attachments/assets/2f81a16b-1d99-48a6-af15-79339824cfc5)
+![5](https://github.com/user-attachments/assets/3fa0e626-c6f4-44ab-a125-ab5bab7f3607)
+![4](https://github.com/user-attachments/assets/736b6ce0-b069-4fdd-9e35-5e9772ade948)
+![3](https://github.com/user-attachments/assets/751bf6c8-cdd4-4ffa-bbc5-280e0ecc11f6)
+![2](https://github.com/user-attachments/assets/e1e3c617-c71d-4d10-acc2-9a9bf1e20d1d)
+![1](https://github.com/user-attachments/assets/57baa72d-91b9-4aa2-83a0-d6e2c908ad99)
+![0](https://github.com/user-attachments/assets/f59c6bf0-e61d-4dfa-bd90-04643e030fdf)
 
-![Todo App Screenshot](assets/todo_app_screenshot.png)  <!-- Replace with actual screenshot paths -->
-![About Us Page Screenshot](assets/about_us_page_screenshot.png)  <!-- Replace with actual screenshot paths -->
 
 **Getting Started**
 To run the app locally, follow these steps:
