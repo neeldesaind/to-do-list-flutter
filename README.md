@@ -16,21 +16,6 @@ An About Us page providing information about the developer, including a brief in
 - Flutter
 - Dart
 
-## Screenshots
-![11](https://github.com/user-attachments/assets/8dff810e-d76c-4c77-a188-10465d0e34a6)
-![10](https://github.com/user-attachments/assets/b5a94f58-5470-4670-8e32-7222dbf36c77)
-![9](https://github.com/user-attachments/assets/92165c55-4d2f-4824-986b-cdcb7f70da68)
-![8](https://github.com/user-attachments/assets/337c1d12-c18c-459b-a5ff-75ea855b1056)
-![7](https://github.com/user-attachments/assets/7c2ad0ba-ea1e-41d9-807d-ae056f46c9aa)
-![6](https://github.com/user-attachments/assets/2f81a16b-1d99-48a6-af15-79339824cfc5)
-![5](https://github.com/user-attachments/assets/3fa0e626-c6f4-44ab-a125-ab5bab7f3607)
-![4](https://github.com/user-attachments/assets/736b6ce0-b069-4fdd-9e35-5e9772ade948)
-![3](https://github.com/user-attachments/assets/751bf6c8-cdd4-4ffa-bbc5-280e0ecc11f6)
-![2](https://github.com/user-attachments/assets/e1e3c617-c71d-4d10-acc2-9a9bf1e20d1d)
-![1](https://github.com/user-attachments/assets/57baa72d-91b9-4aa2-83a0-d6e2c908ad99)
-![0](https://github.com/user-attachments/assets/f59c6bf0-e61d-4dfa-bd90-04643e030fdf)
-
-
 **Getting Started**
 To run the app locally, follow these steps:
 
@@ -59,3 +44,18 @@ To run the app locally, follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/neeldesaind/to-do-list-flutter/blob/main/LICENSE) file for details.
+
+## Screenshots
+
+![0](https://github.com/user-attachments/assets/efdd788e-74e6-4c42-b5cf-e6ef874a8195)
+![1](https://github.com/user-attachments/assets/3b1ffc35-d3eb-4452-a3b1-186b343c932a)
+![2](https://github.com/user-attachments/assets/1f35e5e2-597f-4a73-9160-8b9b300d7062)
+![3](https://github.com/user-attachments/assets/4595aa87-4d5d-40cc-9f89-ea41bdb18e49)
+![4](https://github.com/user-attachments/assets/ffb9a68b-407e-4765-8243-0e7ca27f1aa6)
+![5](https://github.com/user-attachments/assets/1202648f-bb20-4b66-a01b-ccac474c3a43)
+![6](https://github.com/user-attachments/assets/b21f5d6c-7303-4892-9ca6-f34ab5840c8d)
+![7](https://github.com/user-attachments/assets/468a33ba-bf2a-42c5-8e7d-7028f5dc671b)
+![8](https://github.com/user-attachments/assets/9e3a29df-2d8f-4c6f-9109-01d71aa0960c)
+![9](https://github.com/user-attachments/assets/2158ed45-9eb8-4405-b22e-b0b49fc2b514)
+![10](https://github.com/user-attachments/assets/a6ce4888-3179-4d40-bb50-427d6919b1fa)
+![11](https://github.com/user-attachments/assets/0e20d395-78a1-4897-ba5a-6928faa73420)
